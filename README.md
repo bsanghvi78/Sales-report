@@ -63,7 +63,7 @@ Custom DAX measures written for this project include:
 1. **Clone the Repository**
 ```bash
    git clone https://github.com/bsanghvi78/Sales-Report.git
-   cd Sales-Report
+   cd Sales-report
 ```
 
 2. **Open the Dashboard**
